@@ -1,0 +1,1 @@
+/home/mohamed/apps/jdk1.8.0_65/jre/../bin/javadoc @options @packages
